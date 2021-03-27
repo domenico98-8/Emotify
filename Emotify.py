@@ -1,6 +1,6 @@
 import Emotion
 import Database
 
-ciao=Emotion.processa()#hello patty
+ciao=Emotion.processa()
 print(ciao)
 
